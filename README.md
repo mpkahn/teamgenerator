@@ -22,6 +22,10 @@ Install npm (npm i) and inquirer https://www.npmjs.com/package/inquirer as well.
 
 Demo video: https://drive.google.com/file/d/1tgOIxl_RX77WRZNeGg227nwjBV5S30F9/view
 
+## Testing
+
+Type "npm run test" in terminal in order to run tests. Test script is located in the "test" folder. All tests should pass for successful function.
+
 
 ## Credits
 
